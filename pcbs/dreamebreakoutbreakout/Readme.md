@@ -8,6 +8,9 @@ with the headers on the regular Dreame Breakout PCB.
 
 This breakout breakout solves that problem in a way that greatly amuses me.
 
+**Important:** <br/>
+The PCB needs to be manufactured with 1.2mm thickness or else the robot-facing connector won't fit
+
 ## Bill of Materials
 
 All the parts required should be available on Aliexpress or similar

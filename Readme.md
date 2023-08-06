@@ -5,7 +5,7 @@
 This repository contains the resources to build the breakout PCBs required for rooting of Dreame Vacuum robots
 as documented in the [Valetudo docs](https://valetudo.cloud).
 
-These are the PCBs (click to jump to their respective readme:
+These are the PCBs (click to jump to their respective readme):
 - [Dreame Breakout](./pcbs/dreamebreakout/) - the main one you're looking for
 - [Dreame Breakout Breakout](./pcbs/dreamebreakoutbreakout)
 

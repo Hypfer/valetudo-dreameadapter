@@ -11,6 +11,9 @@ Specifically it provides
 - A button to pull BSel to GND to enter FEL
 - A jumper to enable USB OTG
 
+**Important:** <br/>
+The PCB needs to be manufactured with 1.2mm thickness or else the robot-facing connector won't fit
+
 ## Bill of Materials
 
 All the parts required should be available on Aliexpress or similar
