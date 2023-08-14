@@ -3,7 +3,7 @@
 [<img src="./pcbs/dreamebreakout/img/breakout.png" width=750>](./pcbs/dreamebreakout/img/breakout.png)
 
 This repository contains the resources to build the breakout PCBs required for rooting Dreame Vacuum robots
-as documented in the  [Valetudo docs](https://valetudo.cloud).
+as documented in the [Valetudo docs](https://valetudo.cloud).
 
 These are the PCBs (click to jump to their respective readme):
 - [Dreame Breakout](./pcbs/dreamebreakout/) - the main one you're looking for
