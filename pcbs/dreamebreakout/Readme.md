@@ -16,7 +16,7 @@ The PCB needs to be manufactured with 1.2mm thickness or else the robot-facing c
 
 ## Bill of Materials
 
-All the parts required should be available on Aliexpress or similar
+All the parts required should be available on Aliexpress or similar.
 
 - 1x 2.00mm pitch 2x8P male header
 - 2x 2.54mm pitch 1x8P female header
@@ -27,6 +27,9 @@ All the parts required should be available on Aliexpress or similar
 Optional (can also be done via a regular jumper wire using the larger headers):
 - 2x 2.00mm pitch 1x2P male header
 - 2x 2.00mm pitch jumper
+
+Keep in mind that there are many different types of USB connectors available on the market.
+To make sure that you buy the right parts with the correct footprints, you can use the pictures from the soldering guide below as a reference.
 
 
 ## Assembly
