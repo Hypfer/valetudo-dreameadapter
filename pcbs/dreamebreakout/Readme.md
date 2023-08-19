@@ -20,9 +20,9 @@ All the parts required should be available on Aliexpress or similar
 
 - 1x 2.00mm pitch 2x8P male header
 - 2x 2.54mm pitch 1x8P female header
-- 1x 6x6mm tactile button
-- 1x micro usb port
-- 1x usb a port
+- 1x 6x6mm tactile button 
+- 1x Micro USB Receptacle, Type B, Through-Hole, Vertical ([example](https://www.mouser.com/ProductDetail/GCT/USB3131-30-0230-A?qs=KUoIvG/9IlYmRfH6E2AKbw==))
+- 1x USB Connectors USB 2.0, Type A, Receptacle, Vertical, 4 Pins ([example](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/GSB11111ALF?qs=%2BRAvXJslkuBFR1fwnWS5IA==))
 
 Optional (can also be done via a regular jumper wire using the larger headers):
 - 2x 2.00mm pitch 1x2P male header
