@@ -47,3 +47,42 @@ where you can add a marker at your general fuzzy location plus some contact info
 
 Building the software for such a map has been on my ToDo list for quite a while now but as you can see it did not happen yet. :-)
 If this idea sounds cool to you, feel free to take a shot at building it
+
+## FAQ
+
+### Why can't I order these and use assembly services from e.g. JLCPCB?
+
+Because you should learn how to solder. No, really.<br/>
+Soldering is a valuable skill to have in your toolbox and there's no better way to learn something new than being forced
+to do so while trying to get something else done.
+
+To make this as easy as possible, everything has been tuned to be easy to solder, only using THT parts.
+There's even a step-by-step guide with pictures to completely rule out any confusion or overwhelmement.
+
+This project can do that, because it is entirely luxury fluff. No lives depend on people being able to root their
+vacuum robots as quickly and with as little friction as possible.
+This is just a hobby and if you're planning on picking up a hobby, you need to actually invest effort into that hobby.
+
+Soldering irons are cheap and there are a lot of guides on the Internets. It is impossible to be able to buy an $800
+vacuum robot but don't have any more money to then pick up a used $5 soldering iron or just visit the local makerspace.
+
+<br/><br/>
+
+That said, there are indeed people actually incapable of soldering on their own due to physical disabilities etc.
+These are also the people I had in mind when I founded the PCB sharing group so that other users could then help there.
+
+<br/>
+Please note that being a mindless consumer is not a disability and thus doesn't warrant any accessibility efforts.
+Neither is being a very busy individual that just doesn't have time.
+
+You can't pick up a hobby if you don't have time for that hobby.
+
+### Why are there no pre-soldered PCBs for sale?
+
+Similar to what was stated above, this is a conscious decision to filter out people that don't really care about the
+project but just see it as means to an end.
+It also filters people who believe that every conceivable problem can be solved with money and not personal growth.
+
+And lastly, it would be a bad idea, because having bought some finished product makes people think that they're a paying
+customer which can lead to attitude issues that have no business being anywhere near this project.
+
