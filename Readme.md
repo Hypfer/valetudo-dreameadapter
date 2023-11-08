@@ -93,7 +93,8 @@ running the [Ralim/IronOS](https://github.com/Ralim/IronOS) custom firmware whic
 "oh my god a soldering iron that can run a custom firmware". You might be able to relate to that.
 
 It's neat. The digital temperature controls help me greatly and I also quite like how it's so small and can be powered
-by any of the many DC power bricks lying around in my living space. Everything I need for soldering fits into a tiny box.
+by any of the many DC power bricks lying around in my living space. Everything I need for soldering fits into a tiny box
+that itself fits neatly into an IKEA Billy amongst many other labelled boxes containing small equipment like that.
 
 [<img src="./img/ts100.jpg" width=750>](./img/ts100.jpg)
 
@@ -103,11 +104,14 @@ Check the readme of that project for up-to-date recommendations.
 You'll then also need some kind of stand for it which will probably be an item the shop you're buying it from
 will try to upsell you on anyway. Also, one of these copper sponges to take up excess solder.
 
-For the solder itself, I'm still using an old spool with lead-based solder. You should probably **not** be doing that,
-as lead is bad and there's no such thing as healthy levels of lead in your life.<br/>
-The correct thing to do is to use lead-free solder with flux, which I will surely eventually pick up as well.
+For the solder itself, I'm still using lead-based solder. There are serious health considerations there, because there's
+no such thing as a healthy amount of lead in your life, but it's also way more forgiving and easier to use than
+lead-free solder + flux.<br/>
+Don't eat the spool and wash your hands and clean the space afterward.
 
 If you're soldering more stuff, you'll also want to look into fume extraction for which there are off-the-shelf solutions
 as well as DIY ideas on the internet.
-But just for this one PCB, you can probably maybe open a window, point a fan at you and hold your breath?<br/>
+But just for this one PCB, you can solder outside or probably maybe open a window, point a fan at you and hold your breath?<br/>
 Just don't try to actively inhale the solder fumes.
+
+To learn how to solder, consider checking out the [EEVblog tutorial series on YouTube](https://www.youtube.com/watch?v=J5Sb21qbpEQ).
