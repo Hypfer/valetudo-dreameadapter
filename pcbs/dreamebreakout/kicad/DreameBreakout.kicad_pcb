@@ -414,7 +414,7 @@
   )
 
   (footprint "Connector_USB:USB_Micro-B_Wuerth_614105150721_Vertical" (layer "F.Cu")
-    (tedit 5A142044) (tstamp efb33de0-b764-4444-a29e-2b79ab867302)
+    (tedit 6593DD7A) (tstamp efb33de0-b764-4444-a29e-2b79ab867302)
     (at 52.28 56.3 90)
     (descr "USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf")
     (tags "usb micro receptacle vertical")
@@ -462,9 +462,9 @@
       (net 13 "SoC_USB_OTG_ID") (pinfunction "ID") (pintype "passive") (tstamp f75b54a6-f0d8-4777-9edd-9684a1de31a5))
     (pad "5" thru_hole circle (at 2.6 0 90) (size 0.84 0.84) (drill 0.44) (layers *.Cu *.Mask)
       (net 16 "SoC_GND") (pinfunction "GND") (pintype "power_out") (tstamp dc81b3de-06c4-4ec7-9199-c17e124adf97))
-    (pad "6" thru_hole oval (at -2.275 0.22 90) (size 0.85 1.85) (drill oval 0.35 1.35) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at -2.275 0.22 90) (size 0.85 1.85) (drill oval 0.45 1.35) (layers *.Cu *.Mask)
       (net 16 "SoC_GND") (pinfunction "Shield") (pintype "passive") (tstamp 568016a2-84eb-4a5c-8836-997096c7a5a0))
-    (pad "6" thru_hole oval (at 4.875 0.22 90) (size 0.85 1.85) (drill oval 0.35 1.35) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at 4.875 0.22 90) (size 0.85 1.85) (drill oval 0.45 1.35) (layers *.Cu *.Mask)
       (net 16 "SoC_GND") (pinfunction "Shield") (pintype "passive") (tstamp d5f4c0d3-77b7-4311-86d2-9658a39ec0ec))
     (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_614105150721_Vertical.wrl"
       (offset (xyz 0 0 0))
