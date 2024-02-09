@@ -34,7 +34,7 @@ If you
 or
 - if you're looking for someone with a PCB or maybe general dreame rooting advice near you, 
 
-consider joining [the dedicated telegram group](https://t.me/+FAXBhvFutfYxYzVi).
+consider joining [the dedicated telegram group](https://t.me/+vuPbtb23w0g0NGIy).
 
 Ideally this would not only enable more people to root their robots but also build a community and provide an opportunity
 to meet other people nearby that might share the same interests as you.
