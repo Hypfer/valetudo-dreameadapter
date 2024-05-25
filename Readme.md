@@ -20,19 +20,24 @@ Still, this might not be for everyone. But please keep reading
 
 ## Acquiring a PCB
 
-If you can solder but don't want to order a full batch of components and PCBs, I have a few kits lying around.<br/>
-If you need one and are located somewhere where shipping from germany makes sense, you can ping me `@NotHypfer` on Telegram.
+Since we live in an age where there are many cheap hobbyist PCB manufacturing services, the idea behind the PCB is that you
+just pick one of those, upload the gerber zip from the releases section and order a set of PCBs for yourself.
+
+As for the components, they're standard parts. Just source them from wherever. Aliexpress, Ebay, Amazon, Digikey, etc.
+
+Within 1-2 weeks or so, you should then receive everything you need and can start soldering the beginner-friendly and easy to solder THT components to the PCB.
 
 ## Community building
 
-Since ordering custom PCBs and soldering them might not be something everyone is comfortable with, 
-maybe apart from connecting to robots, we can also connect to people?
+Because the PCBs are only needed for the initial root (and debugging), the idea is that instead of everyone
+having their own, users could share the same PCBs locally with other users so that we not only connect to robots
+but also connect to the people around us.
 
-If you 
+If you
 - have built, received or otherwise acquired one of these PCBs and you'd like to help other people root their robots as well
 
 or
-- if you're looking for someone with a PCB or maybe general dreame rooting advice near you, 
+- if you're looking for someone with a PCB or maybe general dreame rooting advice near you,
 
 consider joining [the dedicated telegram group](https://t.me/+vuPbtb23w0g0NGIy).
 
@@ -42,11 +47,21 @@ to meet other people nearby that might share the same interests as you.
 We'll see if and how this works out. I think it could be neat
 
 
-Also, think of the telegram group as the MVP. Ideally, there would be something like a privacy-friendly user map
-where you can add a marker at your general fuzzy location plus some contact information so that you can quickly find other users that live nearby.
+## Acquiring a PCB Kit
 
-Building the software for such a map has been on my ToDo list for quite a while now but as you can see it did not happen yet. :-)
-If this idea sounds cool to you, feel free to take a shot at building it
+If you're located somewhere where no one else has a PCB yet and/or might be unsure on how to order the correct parts,
+I have self-soldering kits here in Germany that I tend to ship out to other people within Europe.<br/>
+Please note that I'm **not** selling these.
+
+Be aware that preparing and shipping kits is work that takes multiple hours every time that I might not always have at hand.
+It's also rather unenjoyable tedious work that I usually do anyway because I enjoy that it brings value to other people.
+
+If you understand that, feel free to ping me via PN to ask about a kit on Telegram (`@NotHypfer`).
+
+Note that this text doesn't state or imply "ping me, and you will for sure receive a kit within 1-3 business days".<br/>
+Always remember that I'm just another human being trying to be nice.
+
+Please act accordingly.
 
 ## FAQ
 
@@ -89,7 +104,7 @@ customer which can lead to attitude issues that have no business being anywhere 
 ### Okay, fine, I'll solder myself. Can you recommend some soldering gear?
 
 Dang, you got me. I'm probably not qualified to recommend stuff, but personally I've been using a MiniWare TS100
-running the [Ralim/IronOS](https://github.com/Ralim/IronOS) custom firmware which I bought because 
+running the [Ralim/IronOS](https://github.com/Ralim/IronOS) custom firmware which I bought because
 "oh my god a soldering iron that can run a custom firmware". You might be able to relate to that.
 
 It's neat. The digital temperature controls help me greatly and I also quite like how it's so small and can be powered
